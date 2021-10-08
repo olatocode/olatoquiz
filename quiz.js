@@ -86,9 +86,9 @@ let questions = [
     "Bill Gate"
   ),
   new Question(
-    "When was the World Wide Web invented ?",
-    ["1960", "1993", "1989", "1889"],
-    "1989"
+    "On Oct 6th 2021 Facebook, Instagram and WhatsApp was down for?",
+    ["2hrs", "4hrs", "6hrs", "8hrs"],
+    "6hrs"
   ),
   new Question(
     "Google was created by larry Page and ?",
