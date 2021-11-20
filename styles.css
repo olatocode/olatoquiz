@@ -68,7 +68,9 @@ text {
 input:hover{
    border: 2px solid green;
 }
+
 input:focus-visible{
+  color: green;
   outline: none;
 }
 
