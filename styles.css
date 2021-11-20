@@ -64,7 +64,9 @@ text {
   box-sizing: border-box;
   box-shadow: 0 0 10px darkcyan;
 }
-
+input::placeholder{
+  color: lightgrey;
+}
 input:hover{
    border: 2px solid green;
 }
