@@ -58,10 +58,15 @@ main {
 
 input,
 text {
+  border: 1px solid lightgrey;
   border-radius: 5px;
   padding: 0.2rem 0.2rem;
   box-sizing: border-box;
   box-shadow: 0 0 10px darkcyan;
+}
+
+inpu:hover{
+   border: 1px solid green;
 }
 
 button {
